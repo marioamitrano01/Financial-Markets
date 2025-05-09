@@ -22,7 +22,7 @@ Real-time dashboard for monitoring major global stock indices with technical ind
 
 ## Dependencies
 
-streamlit, yfinance, pandas, numpy, plotly, ta
+streamlit, pandas, numpy, plotly, ta
 
 ## Usage
 
